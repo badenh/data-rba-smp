@@ -1,4 +1,4 @@
-# rba-smp
+# data-rba-smp
 Reserve Bank of Australia Statements on Monetary Policy
 
 ## About
@@ -11,7 +11,7 @@ The statements were collected from the internet at https://www.rba.gov.au/media-
 Earliest SMP in the collection is from 7 Feb 2001, latest SMP in the collection is from 2 June 2020.
 
 ## Formats
-There are three formats:
+The data is available in three formats:
 * raw : files as downloaded from the RBA site
 * xml : files converted to pure XML
 * txt : files converted to text
