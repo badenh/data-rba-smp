@@ -6,6 +6,7 @@ Corpus of 155 Statements on Monetary Policy from the Reserve Bank of Australia.
 
 ## Source
 The statements were collected from the internet at https://www.rba.gov.au/media-releases/
+The script get_data_rba_smp.sh is a simple way to repeat this if needed.
 
 ## Date Range
 Earliest SMP in the collection is from 7 Feb 2001, latest SMP in the collection is from 2 June 2020.
